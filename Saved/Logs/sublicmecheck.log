@@ -1344,3 +1344,13 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.17-14.07.03:814][996]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/NewMap/6/': No such file or directory
 [2023.10.17-14.07.03:814][996]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/NewMap/6/': No such file or directory
 [2023.10.17-14.07.03:814][996]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/NewMap/6/': No such file or directory
+[2023.10.17-14.08.59:798][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.10.17-14.08.59:919][744]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.17-14.08.59:967][744]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/I5/ORW5MADJYGA4PIE35SU1EO
+[2023.10.17-14.08.59:967][744]LogSavePackage: Moving '../../../Projects/sublicmecheck/Saved/ORW5MADJYGA4PIE35SU1EOD6A1279F4AE172A07B18268B60F87B6A.tmp' to '../../../Projects/sublicmecheck/Content/__ExternalActors__/NewMap/D/I5/ORW5MADJYGA4PIE35SU1EO.uasset'
+[2023.10.17-14.08.59:969][744]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/CU/R2XYTQD71JJM7DZD8F885U
+[2023.10.17-14.08.59:969][744]LogSavePackage: Moving '../../../Projects/sublicmecheck/Saved/R2XYTQD71JJM7DZD8F885U4515DEE04670653A4D9727BB0FF040D6.tmp' to '../../../Projects/sublicmecheck/Content/__ExternalActors__/NewMap/2/CU/R2XYTQD71JJM7DZD8F885U.uasset'
+[2023.10.17-14.09.00:085][744]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 7.32 sec)
+[2023.10.17-14.09.00:086][744]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.17-14.09.00:086][744]LogContentValidation: Display: Validating /Game/light.light_C /Game/NewMap.NewMap:PersistentLevel.light_C_UAID_FC3497A6C0E542B301_1149354800
+[2023.10.17-14.09.00:086][744]LogContentValidation: Display: Validating /Game/light.light_C /Game/NewMap.NewMap:PersistentLevel.light_C_UAID_FC3497A6C0E58FB301_1366774352
